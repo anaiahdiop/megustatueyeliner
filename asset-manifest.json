@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f327b614.chunk.css",
-    "main.js": "/static/js/main.7d8181c5.chunk.js",
-    "main.js.map": "/static/js/main.7d8181c5.chunk.js.map",
+    "main.css": "/static/css/main.7f548487.chunk.css",
+    "main.js": "/static/js/main.e5bc5e14.chunk.js",
+    "main.js.map": "/static/js/main.e5bc5e14.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0385f11f.js",
     "runtime-main.js.map": "/static/js/runtime-main.0385f11f.js.map",
     "static/js/2.5ca63976.chunk.js": "/static/js/2.5ca63976.chunk.js",
@@ -10,15 +10,21 @@
     "static/js/3.f5293067.chunk.js": "/static/js/3.f5293067.chunk.js",
     "static/js/3.f5293067.chunk.js.map": "/static/js/3.f5293067.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f327b614.chunk.css.map": "/static/css/main.f327b614.chunk.css.map",
+    "static/css/main.7f548487.chunk.css.map": "/static/css/main.7f548487.chunk.css.map",
     "static/js/2.5ca63976.chunk.js.LICENSE.txt": "/static/js/2.5ca63976.chunk.js.LICENSE.txt",
     "static/media/homePage.css": "/static/media/CARLOS.66fd0b07.png",
-    "static/media/history.css": "/static/media/me gusta ty eyeliner.3dbbfdba.png"
+    "static/media/contactPage.css": "/static/media/eosas.cc78e0d4.png",
+    "static/media/chola clown.64e95714.png": "/static/media/chola clown.64e95714.png",
+    "static/media/ice blue.c7a33dc3.png": "/static/media/ice blue.c7a33dc3.png",
+    "static/media/makeUp.css": "/static/media/makeup.0e0b218e.png",
+    "static/media/history.css": "/static/media/me gusta ty eyeliner.3dbbfdba.png",
+    "static/media/normalChola.5e7d67de.png": "/static/media/normalChola.5e7d67de.png",
+    "static/media/spider lashes.44385ad3.png": "/static/media/spider lashes.44385ad3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0385f11f.js",
     "static/js/2.5ca63976.chunk.js",
-    "static/css/main.f327b614.chunk.css",
-    "static/js/main.7d8181c5.chunk.js"
+    "static/css/main.7f548487.chunk.css",
+    "static/js/main.e5bc5e14.chunk.js"
   ]
 }
