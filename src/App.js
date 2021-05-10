@@ -1,20 +1,30 @@
 import './App.css';
 import React, { Component } from "react";
-import Test from './components/test'
-import { Canvas } from '@react-three/fiber';
-import { OrbitControls } from '@react-three/drei';
+import Exhibit from './components/virtualPage'
+import Home from './components/homePage'
+import History from './components/historyPage'
+import MakeUp from './components/makeUp'
+import Featured from './components/featuredPage'
+import Contact from './components/contactPage'
+import{
+  HashRouter as Router,
+  Switch,
+  Route
+} from 'react-router-dom';
 
 function App() {
   return (
+    <Router>
+      <Switch>
+      <Route exact path="/"> <Home /> </Route>
+      <Route exact path="/exhibit"> <Exhibit/> </Route>
+      <Route exact path="/ourstory"> <History/> </Route>
+      <Route exact path="/makeup"> <MakeUp/> </Route>
+      <Route exact path="/featured"> <Featured/> </Route>
+      <Route exact path="/contact"> <Contact/> </Route>
+      </Switch>
+    </Router>
     
-    <div className="App">
-      <h1>Me Gusta Tu Eyeliner</h1>
-      <p>Click and drag the square to move</p>
-      <p>Pinch in and out to zoom</p>
-      <div id="exhibit">
-        <Test/>
-      </div>
-    </div>
   );
 }
 

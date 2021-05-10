@@ -1,0 +1,25 @@
+.history{
+   color: white;
+   height:100%
+}
+
+
+#stories{
+    padding: 200px 0px;
+    background-image: url(../img/me\ gusta\ ty\ eyeliner.png);
+    height:100%;
+    width: 100%;
+    color:white;
+
+}
+
+hr.rounded {
+    border-top: 3px solid;
+    border-radius: 5px;
+    width: 75%;
+  }
+
+.p{
+    width: 85%;
+    margin:auto;
+}

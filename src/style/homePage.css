@@ -1,0 +1,49 @@
+
+body,.home{
+    height:100%;
+    background-color: black;
+
+}
+#title{
+    padding: 200px 0px;
+    background-image: url(../img/CARLOS.png);
+    height:100%;
+    width: 100%;
+    color:white;
+
+}
+
+.button{
+    background-color: white;
+    border: none;
+    color: black;
+    margin: 15px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.button a{
+    text-decoration: none;
+    color:black;
+    padding: auto;
+}
+
+.button a:hover {
+    background-color: rgb(223, 199, 245);
+  }
+
+
+p{
+    padding: auto;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+iframe{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

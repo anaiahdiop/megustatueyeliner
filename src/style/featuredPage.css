@@ -1,0 +1,36 @@
+.featured{
+    color: white;
+    height:100%;
+
+}
+
+hr.rounded {
+    border-top: 3px solid;
+    border-radius: 5px;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+
+
+div #yessie{
+    width: 100%;
+    height: auto;
+}
+
+
+.insta{
+    font-size: 25px;
+    padding-top: 0px;
+    
+}
+
+.insta a{
+    text-decoration: none;
+    color: white;
+}
+
+.insta a:hover{
+    background-color: rgb(223, 199, 245);
+}

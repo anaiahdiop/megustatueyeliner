@@ -11,16 +11,13 @@ html,body, #root{
   text-align: center;
 }
 
-#scene {
-  height: 100%;
-  max-width: 100%;
-}
 
 
 #exhibit{
   border-style: solid;
-  height: 50%;
-  width: 50%;
+  background: linear-gradient(#bccae4, #9b9ca2);
+  height: 75%;
+  width: 75%;
   margin:auto;
   
 
